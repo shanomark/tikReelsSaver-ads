@@ -1,6 +1,6 @@
 [
     {
-        "is_show": true,
+        "is_show": false,
         "position": "open_hot",
         "id": "ca-app-pub-2334640401367012/7399684652"
     },
@@ -10,32 +10,32 @@
         "id": "ca-app-pub-2334640401367012/7399684652"
     },
     {
-        "is_show": true,
+        "is_show": false,
         "position": "tags_insert",
         "id": "ca-app-pub-2334640401367012/3175700310"
     },
     {
-        "is_show": true,
+        "is_show": false,
         "position": "save_insert",
         "id": "ca-app-pub-2334640401367012/3175700310"
     },
     {
-        "is_show": true,
+        "is_show": false,
         "position": "more_insert",
         "id": "ca-app-pub-2334640401367012/3175700310"
     },
     {
-        "is_show": true,
+        "is_show": false,
         "position": "history_insert",
         "id": "ca-app-pub-2334640401367012/3175700310"
     },
     {
-        "is_show": true,
+        "is_show": false,
         "position": "tik_detail_insert",
         "id": "ca-app-pub-2334640401367012/3175700310"
     },
     {
-        "is_show": true,
+        "is_show": false,
         "position": "ins_detail_insert",
         "id": "ca-app-pub-2334640401367012/3175700310"
     },
